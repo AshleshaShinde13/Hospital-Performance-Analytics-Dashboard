@@ -1,1 +1,45 @@
 # Hospital-Performance-Analytics-Dashboard
+
+## Project Overview
+The project showcases a fully interactive dashboard built to monitor and analyze **hospital performance metrics** using real-world healthcare business scenarios. An dashboard designed to analyze hospital operations, patient demographics, department efficiency, doctor performance, and revenue trends.
+
+## Problem Statement
+Hospitals generate large volumes of operational data, but decision-makers often struggle to:
+- Track key performance indicators consistently
+- Identify high- and low-performing departments
+- Understand patient mix and cost drivers
+- Spot trends early for staffing and capacity planning
+
+## Data Sources
+- Source: Excel (simulated healthcare operational dataset)
+- Data Includes:
+  - Admissions (dates, length of stay)
+  - Treatments and costs
+  - Patient demographics (age, gender, region)
+  - Doctors and departments
+  - Calendar / date dimension
+
+ The data is modeled using a **star schema** for performance and scalability.
+
+ ## Key KPIs & Insights
+
+### Executive KPIs
+- Total Patients
+- Total Revenue
+- Average Treatment Cost
+- Average Length of Stay
+
+### Core Insights
+- Monthly and daily admission trends
+- Department-wise patient volume and revenue contribution
+- Doctor-level performance (Top 10 doctors)
+- Patient demographics by age, gender, and region
+- Treatment types driving the highest revenue
+
+## Tools Used
+
+- **Excel** – Data source 
+- **Power BI Desktop** – Data modeling & visualization  
+- **Power Query** – Data cleaning and transformation  
+- **DAX** – Measures and calculations   
+- **Star Schema Modeling** – Analytics best practice  
