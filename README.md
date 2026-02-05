@@ -22,7 +22,7 @@ The project showcases a fully interactive dashboard built to monitor and analyze
 
  The data is modeled using a **star schema** for performance and scalability.
 
- ## kEY KPIs AND INSIGHTS
+ ## KEY KPIs AND INSIGHTS
 
 ### Executive KPIs
 - Total Patients
