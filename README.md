@@ -47,3 +47,14 @@ The project showcases a fully interactive dashboard built to monitor and analyze
 
 ## CONCLUSION
 This dashboard showcases end-to-end Power BI skills, including data modeling, DAX, and business storytelling. It highlights how analytics can improve hospital performance monitoring, efficiency, and strategic planning.
+
+## FUTURE ENHANCEMENTS
+- Add readmission rate and patient outcome analysis
+- Implement doctor-level drill-through pages
+- Introduce forecasting for admissions and revenue
+- Add patient satisfaction metrics
+- Apply Row-Level Security (RLS) for role-based access
+
+## FEEDBACK & CONTACT
+- Feedback and suggestions are welcome.
+- If you’d like to discuss this project or collaborate, feel free to connect with me.
