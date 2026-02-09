@@ -45,6 +45,18 @@ The project showcases a fully interactive dashboard built to monitor and analyze
 - **DAX** – Measures and calculations   
 - **Star Schema Modeling** – Analytics best practice
 
+## DASHBOARD PREVIEW
+
+### Executive Overview
+![Page 1](C:\Users\Ashlesh Shinde\Documents\Healthcare Project\Dashboard screenshots\Page 1)
+
+### Department & Doctor Performance
+![Department Performance](Screenshots/department_performance.png)
+
+### Patient Demographics & Cost
+![Patient Demographics](Screenshots/patient_demographics.png)
+
+
 ## CONCLUSION
 This dashboard showcases end-to-end Power BI skills, including data modeling, DAX, and business storytelling. It highlights how analytics can improve hospital performance monitoring, efficiency, and strategic planning.
 
