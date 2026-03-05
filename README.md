@@ -48,7 +48,8 @@ The project showcases a fully interactive dashboard built to monitor and analyze
 ## DASHBOARD PREVIEW
 
 ### Executive Overview
-![Page 1](C:\Users\Ashlesh Shinde\Documents\Healthcare Project\Dashboard screenshots\Page 1)
+<img width="766" height="428" alt="Page 1" src="https://github.com/user-attachments/assets/653f9ba7-543c-48f4-aac4-29cc598465fe" />
+
 
 ### Department & Doctor Performance
 ![Department Performance](Screenshots/department_performance.png)
