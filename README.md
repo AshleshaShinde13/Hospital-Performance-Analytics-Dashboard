@@ -52,10 +52,11 @@ The project showcases a fully interactive dashboard built to monitor and analyze
 
 
 ### Department & Doctor Performance
-![Department Performance](Screenshots/department_performance.png)
+<img width="765" height="428" alt="Page 2" src="https://github.com/user-attachments/assets/8f551f71-01b9-4a5d-8346-df665da23e10" />
+
 
 ### Patient Demographics & Cost
-![Patient Demographics](Screenshots/patient_demographics.png)
+<img width="766" height="430" alt="Page 3" src="https://github.com/user-attachments/assets/a269b38c-97ac-4bf2-ae72-b1897c53b518" />
 
 
 ## CONCLUSION
